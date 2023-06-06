@@ -6,5 +6,5 @@ Welcome to my first repository as a full-stack engineer! In this project, I will
 
 <h2>Steps</h2>
 
-1.<h3>Install</h3> Git: If you haven't installed Git on your computer yet, make sure to do so. You can download Git from the official website: git-scm.com.
+1.<h5>InstallGit:</h5> If you haven't installed Git on your computer yet, make sure to do so. You can download Git from the official website: git-scm.com.
 This is my first project using Git. I'm learning how to use version control and collaborating with others on software development.
