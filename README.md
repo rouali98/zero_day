@@ -43,4 +43,4 @@ $ git commit -m "My first commit"
 $ git push origin master
 ~~~
 
-<p style='font-family: Futura'>Congratulations! You have successfully pushed your first file to your first repository as part of your first project. You are now ready to continue your journey in the world of Git and GitHub!</p>
+<p style="font-family: futura;">Congratulations! You have successfully pushed your first file to your first repository as part of your first project. You are now ready to continue your journey in the world of Git and GitHub!</p>
